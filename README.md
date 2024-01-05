@@ -19,3 +19,12 @@
 - 📫 How to reach me **mandlikavi121@gmail.com**
 
 - ⚡ Fun fact **I am fanny 😜**
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/avishkar-mandlik-baa357259/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Avishkar%20Mandlik-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/avishkar_mandlik/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-avishkar_mandlik-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mandlikavi121@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mandlikavi121@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
