@@ -27,3 +27,9 @@
 <a href="https://linkedin.com/in/avishkar-mandlik-baa357259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AvishkarMandlik" height="30" width="40" /></a>
 <a href="https://instagram.com/avishkar_mandlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AvishkarMandlik" height="30" width="40" /></a>
 </p>
+
+<!-- GitHUb Stats -->
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=AvishkarMandlik&theme=tokyonight&show_icons=true&hide=["issues"])
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkarMandlik&theme=tokyonight&layout=compact)
