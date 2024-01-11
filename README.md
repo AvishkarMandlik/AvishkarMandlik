@@ -44,3 +44,11 @@
 
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkarMandlik&theme=tokyonight&layout=compact)
+
+<!-- streak -->
+<picture>
+    <source media="(prefers-color-scheme: tokyonight)" srcset="https://streak-stats.demolab.com?user=AvishkarMandlik&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AvishkarMandlik&theme=tokyonight" alt="GitHub Streak" />
+</picture>
+
+    
