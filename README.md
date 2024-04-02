@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/AvishkarMandlik" target="blank"><img src="https://img.shields.io/twitter/follow/AvishkarMandlik?logo=twitter&style=for-the-badge" alt="AvishkarMandlik" /></a> </p>
 
-- 🔭 I’m currently working on [MERN Stack project](https://github.com/AvishkarMandlik/NotesWala)
+- 🔭 I’m currently working on [MERN Stack project](https://github.com/AvishkarMandlik/blogify)
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AvishkarMandlik](https://github.com/AvishkarMandlik)
